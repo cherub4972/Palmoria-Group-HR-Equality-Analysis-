@@ -39,6 +39,13 @@ Possible unconscious bias in performance ratings
 Gender pay inequity baked into departmental structures
 Regulatory compliance issues that expose the company to penalties
 Bonus policies that reward top performers but could amplify existing inequities
+
+
+
+
+
+
+
 ## Challenges Encountered
 During the analysis, the following issues were observed:
 a. Missing or Dirty Data
