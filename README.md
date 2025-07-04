@@ -47,6 +47,10 @@ Bonus policies that reward top performers but could amplify existing inequities
 
 
 
+
+![Image](https://github.com/cherub4972/Palmoria-Group-HR-Equality-Analysis-/blob/main/power%20bi%20(2).jpg)
+
+
 ## Challenges Encountered
 During the analysis, the following issues were observed:
 a. Missing or Dirty Data
