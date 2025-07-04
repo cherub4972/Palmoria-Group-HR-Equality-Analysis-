@@ -40,6 +40,7 @@ Gender pay inequity baked into departmental structures
 Regulatory compliance issues that expose the company to penalties
 Bonus policies that reward top performers but could amplify existing inequities
 
+![Image](https://github.com/cherub4972/Palmoria-Group-HR-Equality-Analysis-/blob/main/power%20bi.jpg)
 
 
 
